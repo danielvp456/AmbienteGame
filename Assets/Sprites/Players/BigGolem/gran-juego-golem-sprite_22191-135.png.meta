@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: e904706e3cb50244abc8b55c0c5c9f37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -212394357338827364
+    second: gran-juego-golem-sprite_22191-135_0
+  - first:
+      213: 1849741416554485953
+    second: gran-juego-golem-sprite_22191-135_1
+  - first:
+      213: 2382662869291848698
+    second: gran-juego-golem-sprite_22191-135_2
+  - first:
+      213: -216403619354277334
+    second: gran-juego-golem-sprite_22191-135_3
+  - first:
+      213: 5655193615983034361
+    second: gran-juego-golem-sprite_22191-135_4
+  - first:
+      213: 2581306374804076859
+    second: gran-juego-golem-sprite_22191-135_5
+  - first:
+      213: 2379213790665586805
+    second: gran-juego-golem-sprite_22191-135_6
+  - first:
+      213: -77446482019531325
+    second: gran-juego-golem-sprite_22191-135_7
+  - first:
+      213: -2755138118319167809
+    second: gran-juego-golem-sprite_22191-135_8
+  - first:
+      213: 890105072489138467
+    second: gran-juego-golem-sprite_22191-135_9
+  - first:
+      213: 595926365552422402
+    second: gran-juego-golem-sprite_22191-135_10
+  - first:
+      213: 5081463155699933454
+    second: gran-juego-golem-sprite_22191-135_11
+  - first:
+      213: -2902701571035605062
+    second: gran-juego-golem-sprite_22191-135_12
+  - first:
+      213: 2469100076727954935
+    second: gran-juego-golem-sprite_22191-135_13
+  - first:
+      213: 7228958331903663551
+    second: gran-juego-golem-sprite_22191-135_14
+  - first:
+      213: 1280333630107984868
+    second: gran-juego-golem-sprite_22191-135_15
+  - first:
+      213: -8109484751474000620
+    second: gran-juego-golem-sprite_22191-135_16
+  - first:
+      213: -4090193679574545195
+    second: gran-juego-golem-sprite_22191-135_17
+  - first:
+      213: 8317448984499557117
+    second: gran-juego-golem-sprite_22191-135_18
+  - first:
+      213: 6338193145616200806
+    second: gran-juego-golem-sprite_22191-135_19
+  - first:
+      213: 5625230903581513383
+    second: gran-juego-golem-sprite_22191-135_20
+  - first:
+      213: -5313744566701229934
+    second: gran-juego-golem-sprite_22191-135_21
+  - first:
+      213: -8551876005143143348
+    second: gran-juego-golem-sprite_22191-135_22
+  - first:
+      213: 3612638505995228078
+    second: gran-juego-golem-sprite_22191-135_23
+  - first:
+      213: -8824547228592918563
+    second: gran-juego-golem-sprite_22191-135_24
+  - first:
+      213: 5389628010735509754
+    second: gran-juego-golem-sprite_22191-135_25
+  - first:
+      213: 1563077467992857812
+    second: gran-juego-golem-sprite_22191-135_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 259
+        width: 385
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95a73c0f585e5d449b4663d9c86869d
+      internalID: -212394357338827364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 199
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66361a4eabc76714ab8c5c851475d798
+      internalID: 1849741416554485953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 199
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98a14d7bcaff6b4d88ce244d012d8dd
+      internalID: 2382662869291848698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 199
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c046d0c27b97f54796269f51a23e557
+      internalID: -216403619354277334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 199
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4efd37694c50d478b5731be2756a4f
+      internalID: 5655193615983034361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 143
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f3ff9903b46b40b1bf367a9ca1608
+      internalID: 2581306374804076859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 143
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f967acc9fe274e8c1e5e3d79dd8b6
+      internalID: 2379213790665586805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 143
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9e70a42fcfec946b72a4dd63a1bd6d
+      internalID: -77446482019531325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 143
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a746e485ff0e39c47b160dac28040e99
+      internalID: -2755138118319167809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7205df69f7e94904ba4fdc3d97bbb7c4
+      internalID: 890105072489138467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 143
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f024d4c7766141b17871d7c093a5b
+      internalID: 595926365552422402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 143
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a926736e266a245a588935d578f616
+      internalID: 5081463155699933454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 144
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990915bdd2ec8941ae5d3b863184ce2
+      internalID: -2902701571035605062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 144
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e101674ac394b545bfd3f3b5e302a41
+      internalID: 2469100076727954935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 73
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b572c8b1c8b64297ddaf5054459a4
+      internalID: 7228958331903663551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32d1075bce63d4f90e56077b110e56
+      internalID: 1280333630107984868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 73
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87eb8937797e1d4e9efe7e8b0b832ea
+      internalID: -8109484751474000620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 73
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dcd6db8cc619e43ae627185023484e
+      internalID: -4090193679574545195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 73
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7b463a86594a24e97fea16365430bc
+      internalID: 8317448984499557117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 72
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cb02a1ed48982498850309d7ff0cf6
+      internalID: 6338193145616200806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_20
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 73
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993725467fb5e84dad4c65524998976
+      internalID: 5625230903581513383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_21
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 73
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2b57fbddaddca43a255cc6abd95254
+      internalID: -5313744566701229934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2be4b39134945408eb9f144b1ad0b2
+      internalID: -8551876005143143348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 18
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df4dd2c398e9f49b893ce191d7c744
+      internalID: 3612638505995228078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d97fcddff58644db2442e2766c0b01
+      internalID: -8824547228592918563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 18
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a80fc78d96e9464dbcf0b323a2917e0
+      internalID: 5389628010735509754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gran-juego-golem-sprite_22191-135_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 18
+        width: 70
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa06f18da0574644899bdc096055523
+      internalID: 1563077467992857812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ffed43d38910a6343bbce5fe980703c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

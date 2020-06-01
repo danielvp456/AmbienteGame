@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 94e8983a99c796a4e9eb7e3658d06fdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2974087192784680016
+    second: cavites-juego-sprites_22191-109_0
+  - first:
+      213: -4913145415011163165
+    second: cavites-juego-sprites_22191-109_1
+  - first:
+      213: -3418302709458062127
+    second: cavites-juego-sprites_22191-109_2
+  - first:
+      213: 5231178480192568174
+    second: cavites-juego-sprites_22191-109_3
+  - first:
+      213: 8348305719683806144
+    second: cavites-juego-sprites_22191-109_4
+  - first:
+      213: 2420292488615589634
+    second: cavites-juego-sprites_22191-109_5
+  - first:
+      213: 4889086443494995438
+    second: cavites-juego-sprites_22191-109_6
+  - first:
+      213: 2795420705532020824
+    second: cavites-juego-sprites_22191-109_7
+  - first:
+      213: 5103555991674441851
+    second: cavites-juego-sprites_22191-109_8
+  - first:
+      213: 7402303442652100928
+    second: cavites-juego-sprites_22191-109_9
+  - first:
+      213: -8317365571321171132
+    second: cavites-juego-sprites_22191-109_10
+  - first:
+      213: 7700754348509701343
+    second: cavites-juego-sprites_22191-109_11
+  - first:
+      213: 9093073390553256454
+    second: cavites-juego-sprites_22191-109_12
+  - first:
+      213: -7424570064070019868
+    second: cavites-juego-sprites_22191-109_13
+  - first:
+      213: 3211272362902478583
+    second: cavites-juego-sprites_22191-109_14
+  - first:
+      213: -4450328877248608018
+    second: cavites-juego-sprites_22191-109_15
+  - first:
+      213: 7778593579156617009
+    second: cavites-juego-sprites_22191-109_16
+  - first:
+      213: 5788167412449396075
+    second: cavites-juego-sprites_22191-109_17
+  - first:
+      213: -2851639247281369940
+    second: cavites-juego-sprites_22191-109_18
+  - first:
+      213: -1768743597077080969
+    second: cavites-juego-sprites_22191-109_19
+  - first:
+      213: 7379778479693916949
+    second: cavites-juego-sprites_22191-109_20
+  - first:
+      213: -7381709178815398389
+    second: cavites-juego-sprites_22191-109_21
+  - first:
+      213: -7469289499461892215
+    second: cavites-juego-sprites_22191-109_22
+  - first:
+      213: -7271377270163421485
+    second: cavites-juego-sprites_22191-109_23
+  - first:
+      213: -8199329836008137884
+    second: cavites-juego-sprites_22191-109_24
+  - first:
+      213: 1349285727225553357
+    second: cavites-juego-sprites_22191-109_25
+  - first:
+      213: 1472027936306480714
+    second: cavites-juego-sprites_22191-109_26
+  - first:
+      213: 4709820047784327474
+    second: cavites-juego-sprites_22191-109_27
+  - first:
+      213: -4970072533345094983
+    second: cavites-juego-sprites_22191-109_28
+  - first:
+      213: -3703008161855414789
+    second: cavites-juego-sprites_22191-109_29
+  - first:
+      213: -23679823001292074
+    second: cavites-juego-sprites_22191-109_30
+  - first:
+      213: -481643678198949164
+    second: cavites-juego-sprites_22191-109_31
+  - first:
+      213: 2365432771595639887
+    second: cavites-juego-sprites_22191-109_32
+  - first:
+      213: 6180056313435786601
+    second: cavites-juego-sprites_22191-109_33
+  - first:
+      213: 5277552770600301130
+    second: cavites-juego-sprites_22191-109_34
+  - first:
+      213: -389445106380219550
+    second: cavites-juego-sprites_22191-109_35
+  - first:
+      213: 800311879955955383
+    second: cavites-juego-sprites_22191-109_36
+  - first:
+      213: -5749510798840633759
+    second: cavites-juego-sprites_22191-109_37
+  - first:
+      213: -4795068343567003065
+    second: cavites-juego-sprites_22191-109_38
+  - first:
+      213: -8570960834953129675
+    second: cavites-juego-sprites_22191-109_39
+  - first:
+      213: 322952315316789035
+    second: cavites-juego-sprites_22191-109_40
+  - first:
+      213: -8005224458178965613
+    second: cavites-juego-sprites_22191-109_41
+  - first:
+      213: 2417982461008627763
+    second: cavites-juego-sprites_22191-109_42
+  - first:
+      213: -2627531394352803082
+    second: cavites-juego-sprites_22191-109_43
+  - first:
+      213: 2055544799782484539
+    second: cavites-juego-sprites_22191-109_44
+  - first:
+      213: 628053531204078980
+    second: cavites-juego-sprites_22191-109_45
+  - first:
+      213: -5504490393413999385
+    second: cavites-juego-sprites_22191-109_46
+  - first:
+      213: 1948775217788686941
+    second: cavites-juego-sprites_22191-109_47
+  - first:
+      213: 989270989842960684
+    second: cavites-juego-sprites_22191-109_48
+  - first:
+      213: -961410153012205432
+    second: cavites-juego-sprites_22191-109_49
+  - first:
+      213: 1283331073119043993
+    second: cavites-juego-sprites_22191-109_50
+  - first:
+      213: 7952648918350196860
+    second: cavites-juego-sprites_22191-109_51
+  - first:
+      213: -346915538040018257
+    second: cavites-juego-sprites_22191-109_52
+  - first:
+      213: -2748078743469190038
+    second: cavites-juego-sprites_22191-109_53
+  - first:
+      213: 696864548071240515
+    second: cavites-juego-sprites_22191-109_54
+  - first:
+      213: 7631652539565326151
+    second: cavites-juego-sprites_22191-109_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 403
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16154b2e0214da748991274fd2709664
+      internalID: 2974087192784680016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 403
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257cb7fd0c2f57940872c734474bb435
+      internalID: -4913145415011163165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 403
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af192a9c92223946bfca2f25cc63ebb
+      internalID: -3418302709458062127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 403
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cdc2e6e1062e74482d3cfa18aed730
+      internalID: 5231178480192568174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 403
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342ae32fd0cfb04789c748d989c3ac5
+      internalID: 8348305719683806144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 129
+        width: 247
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ad625dc068e846aef73d91ba642c7
+      internalID: 2420292488615589634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 347
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961d0db2ada4634e928e42199e93d32
+      internalID: 4889086443494995438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 348
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20915040500c01e4d925b246dbd5fafe
+      internalID: 2795420705532020824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 349
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fb3ce260c839c449e7db8469a28428
+      internalID: 5103555991674441851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 350
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed3f29568503d44993453d5efaa733
+      internalID: 7402303442652100928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 349
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3137a2a0c1dd44992df93aff29584
+      internalID: -8317365571321171132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 289
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5bf6aba31233649bc2fc50d88227e0
+      internalID: 7700754348509701343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 290
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c762cf9d122b51c4f8c18bd77733a6dd
+      internalID: 9093073390553256454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 290
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2401cdaf6fb21c84ab23488d061276b0
+      internalID: -7424570064070019868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 290
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78911587d3a0246a3040ed29a7c652
+      internalID: 3211272362902478583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b7ee35b94c5ca4f8028ecebe7906b3
+      internalID: -4450328877248608018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 289
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a591359dd00edcd44aa02ba3924dbd08
+      internalID: 7778593579156617009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 290
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704343f91efa4d4e9c6fe25db962473
+      internalID: 5788167412449396075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 237
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d09ba5f17d4b4fa0a6c42e4337069
+      internalID: -2851639247281369940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 237
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3248b0bddd10444c834ba3c971285d7
+      internalID: -1768743597077080969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 237
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537651c90984a945a4868d78cbe454b
+      internalID: 7379778479693916949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 237
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6d8800a5320ad4ba6f7123aaa4f94c
+      internalID: -7381709178815398389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 237
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e67df57b6186c46b3ce9249c31f9e6
+      internalID: -7469289499461892215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 236
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcf8f14796b44146bceff16e6196bb9
+      internalID: -7271377270163421485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 174
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a0e900d18e6b74eb434c3c6d22ae36
+      internalID: -8199329836008137884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 174
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8ce767281329438a588d8ce20fed7
+      internalID: 1349285727225553357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 174
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7719771d1c58664aba9a37ac3c3e6d2
+      internalID: 1472027936306480714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 120
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f67090faa0bf4e98dcbd9da1735cb
+      internalID: 4709820047784327474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 120
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce16f3170a62b44b1a8d7e23929fe5
+      internalID: -4970072533345094983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 121
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0585c28b5bc77924d82783fa489ae52d
+      internalID: -3703008161855414789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 120
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b9ba02bfd3d1149b89052072a1cd72
+      internalID: -23679823001292074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 118
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53dabc6924af034988f92af09ad24fe
+      internalID: -481643678198949164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 63
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1be303c1191be449b69d552ab33c1f
+      internalID: 2365432771595639887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 64
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99640448fa45b4ebb3af8321ec7f51
+      internalID: 6180056313435786601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cb439720a912142af2670ac599d654
+      internalID: 5277552770600301130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3c524fa3cb18448a837a052fcfaa3
+      internalID: -389445106380219550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 64
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2e26ffcdeef854887626276d96a1d8
+      internalID: 800311879955955383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 64
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d364e9c50e2164597af5e679c091e4
+      internalID: -5749510798840633759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 63
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27d8e8802755e48a845c7b6ca14e8c
+      internalID: -4795068343567003065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 64
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f13c4c97c0c64a92585ffa445607b
+      internalID: -8570960834953129675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b220e285ce7a6c740b729be015e6996a
+      internalID: 322952315316789035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 64
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fad0a0c4c328da45b9a3ac6b7fd6fef
+      internalID: -8005224458178965613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_42
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 64
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f78b91df78be41bb7a81ea34d88e5
+      internalID: 2417982461008627763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_43
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 64
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0d14b8f568fe4c855a123772d4e71
+      internalID: -2627531394352803082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_44
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 11
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea8e610e62ed0f4baa42074bf40469e
+      internalID: 2055544799782484539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_45
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 11
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddbbfa64f6204f4eba94ac3d332cace
+      internalID: 628053531204078980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 11
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f1c50018222348ae263dd7de9299b
+      internalID: -5504490393413999385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 10
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd291158d0062043865bc8fa0989020
+      internalID: 1948775217788686941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 11
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cd09d04d447174eae959cc628ccc9d
+      internalID: 989270989842960684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 11
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0915a7d56aee84bbd8e2fe0aa00a05
+      internalID: -961410153012205432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 11
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67db2de7c3d73e840867f9913cb17863
+      internalID: 1283331073119043993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed75375ae746034299f49c2382540eb
+      internalID: 7952648918350196860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 11
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1eacc72bca20140848b2c48ca64e75
+      internalID: -346915538040018257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_53
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 10
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750788eecc55d8948bcca98ec9eec50f
+      internalID: -2748078743469190038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_54
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 11
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204ed35f4d3360e468ca830befd471f0
+      internalID: 696864548071240515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cavites-juego-sprites_22191-109_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 10
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681b029b76d60844b1dc4d68059491e
+      internalID: 7631652539565326151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 53d3938e14e367e419a6d71d81548a81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
